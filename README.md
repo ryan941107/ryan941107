@@ -1,5 +1,4 @@
-# 알리바바 230층 입주민입니다 ,༼;´༎ຶ۝༎ຶ༽
-**요로시쿠네~** :blush: 
+# **요로시쿠네~** :blush: 
 
 [![ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryan941107)](https://github.com/anuraghazra/github-readme-stats)
 
